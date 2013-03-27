@@ -6,15 +6,13 @@
         id        = "com.phonegap.hello-world"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Libreta de Gastos</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Libreta de Gastos HTML5
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
-    </author>
+    <author email="rafa.alb.alcantara@gmail.com">Rafael Alcantara</author>
 
     <!--
         Enable individual API permissions by defining each here.
